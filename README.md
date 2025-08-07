@@ -38,7 +38,7 @@ Una aplicación web moderna para la gestión y descubrimiento de eventos sociale
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/xsecc/two-to-tango.git
 cd two-to-tango
 ```
 
